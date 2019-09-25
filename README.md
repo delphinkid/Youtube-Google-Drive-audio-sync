@@ -17,4 +17,4 @@ Known bugs:
 
 This is still in its early phases, so there are likely more bugs I haven't found yet. Most bugs seem to be fixed by refreshing the page. If you encounter any issues that refreshing does not fix, you can disable the script in the greasemonkey menu.
 
-TO INSTALL: Make sure you have greasemonkey installed. Go to the Youtube Drive Sync.user.js file page and click 'raw'. A window should open allowing you to install the userscript.
+TO INSTALL: Make sure you have greasemonkey installed. Go to the Youtube_Drive_sync.user.js file page and click 'raw'. A window should open allowing you to install the userscript.
